@@ -1,0 +1,61 @@
+{
+  "carts": [
+    {
+      "session_id": "session_123abc",
+      "created_at": "2024-01-15T10:30:00Z",
+      "updated_at": "2024-01-15T10:45:00Z",
+      "items": [
+        {
+          "product_id": "1",
+          "quantity": 2,
+          "added_at": "2024-01-15T10:30:00Z"
+        },
+        {
+          "product_id": "5",
+          "quantity": 1,
+          "added_at": "2024-01-15T10:35:00Z"
+        },
+        {
+          "product_id": "9",
+          "quantity": 3,
+          "added_at": "2024-01-15T10:45:00Z"
+        }
+      ],
+      "total_items": 6,
+      "subtotal": 91.94
+    },
+    {
+      "session_id": "session_456def",
+      "created_at": "2024-01-15T11:00:00Z",
+      "updated_at": "2024-01-15T11:10:00Z",
+      "items": [
+        {
+          "product_id": "3",
+          "quantity": 1,
+          "added_at": "2024-01-15T11:00:00Z"
+        },
+        {
+          "product_id": "7",
+          "quantity": 2,
+          "added_at": "2024-01-15T11:10:00Z"
+        }
+      ],
+      "total_items": 3,
+      "subtotal": 49.97
+    },
+    {
+      "session_id": "session_789ghi",
+      "created_at": "2024-01-15T14:20:00Z",
+      "updated_at": "2024-01-15T14:20:00Z",
+      "items": [
+        {
+          "product_id": "6",
+          "quantity": 1,
+          "added_at": "2024-01-15T14:20:00Z"
+        }
+      ],
+      "total_items": 1,
+      "subtotal": 19.99
+    }
+  ]
+}

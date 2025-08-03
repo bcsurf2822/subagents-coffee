@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": "beans",
+      "name": "Coffee Beans",
+      "description": "Whole bean coffee for the freshest taste. Grind at home for optimal flavor.",
+      "display_order": 1,
+      "image_url": "/images/category-beans.jpg"
+    },
+    {
+      "id": "ground",
+      "name": "Ground Coffee",
+      "description": "Pre-ground coffee for convenience. Ready to brew in your favorite coffee maker.",
+      "display_order": 2,
+      "image_url": "/images/category-ground.jpg"
+    },
+    {
+      "id": "pods",
+      "name": "Coffee Pods",
+      "description": "Single-serve coffee pods compatible with most pod brewing systems.",
+      "display_order": 3,
+      "image_url": "/images/category-pods.jpg"
+    }
+  ]
+}

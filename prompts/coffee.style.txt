@@ -1,0 +1,36 @@
+Individual Coffee Type Examples:
+
+  Ethiopian Yirgacheffe:
+  "Coffee beans scattered in foreground with a coffee plant behind, Ethiopian flag colors green yellow and red in the background, vibrant cartoon animation style like a
+  Pixar movie, bright cheerful colors, African landscape elements, animated illustration"
+
+  Colombian Supremo:
+  "Coffee beans scattered in foreground with a coffee plant behind, Colombian flag colors yellow blue and red in the background, vibrant cartoon animation style, bright
+  cheerful colors, Andean mountain silhouettes, animated illustration"
+
+  Brazilian Santos:
+  "Coffee beans scattered in foreground with a coffee plant behind, Brazilian flag colors green yellow and blue in the background, vibrant cartoon animation style,
+  Brazilian tropical elements and carnival colors, bright cheerful colors, animated illustration"
+
+  House Blend:
+  "Mixed coffee beans scattered in foreground with a coffee plant behind, warm home colors browns oranges and golds in the background, vibrant cartoon animation style,
+  cozy house elements, bright cheerful colors, animated illustration"
+
+  Category Image Examples:
+
+  Category Beans:
+  "Various coffee beans in different roasting stages scattered artfully in foreground with multiple coffee plants behind, rich browns and golds in the background,
+  vibrant cartoon animation style, coffee farm elements, bright cheerful colors, animated illustration"
+
+  Category Pods:
+  "Various colorful coffee pods scattered in foreground with coffee plants behind, modern tech colors blues silvers and metallics in the background, vibrant cartoon
+  animation style, modern coffee machines elements, bright cheerful colors, animated illustration"
+
+  Key Pattern Elements:
+  - Structure: [Item] scattered in foreground with a coffee plant behind
+  - Background: [Unique colors/theme] in the background
+  - Style: vibrant cartoon animation style
+  - Elements: [Cultural/regional elements]
+  - Colors: bright cheerful colors, animated illustration
+
+  This formula ensured consistency while allowing for unique regional/cultural identifiers for each coffee type.
