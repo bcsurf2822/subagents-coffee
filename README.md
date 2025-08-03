@@ -2,7 +2,7 @@
 
 > **A complete full-stack e-commerce application built in under 2 hours using Claude Code's specialized sub-agents, demonstrating the power of AI-assisted development with carefully crafted prompts and context management.**
 
-## 🤖 Built 100% with Claude Code Sub-Agents
+## Built 100% with Claude Code Sub-Agents
 
 This entire application was developed using Claude Code's specialized agent system, showcasing how AI can rapidly build complex, production-ready applications when given proper context and structured prompts.
 
@@ -10,10 +10,10 @@ This entire application was developed using Claude Code's specialized agent syst
 
 ### Agent Orchestration Used
 
-1. **🏗️ system-architect** - Designed the complete system architecture, API specifications, and technical stack decisions
-2. **🎨 ui-designer** - Created comprehensive ASCII wireframes and design system specifications  
-3. **🐍 python-backend-dev** - Implemented the entire FastAPI backend with session management and data handling
-4. **⚛️ react-typescript-specialist** - Built the complete Next.js frontend with TypeScript and responsive design
+1. **system-architect** - Designed the complete system architecture, API specifications, and technical stack decisions
+2. **ui-designer** - Created comprehensive ASCII wireframes and design system specifications  
+3. **python-backend-dev** - Implemented the entire FastAPI backend with session management and data handling
+4. ** react-typescript-specialist** - Built the complete Next.js frontend with TypeScript and responsive design
 
 ### Development Timeline: **< 2 Hours**
 
@@ -22,7 +22,7 @@ This entire application was developed using Claude Code's specialized agent syst
 - **Frontend Implementation** (45 minutes): Next.js app, components, state management, styling
 - **Integration & Testing** (15 minutes): End-to-end testing, bug fixes, documentation
 
-## 🏪 What Was Built
+## What Was Built
 
 A complete coffee shop e-commerce platform featuring:
 
@@ -31,7 +31,7 @@ A complete coffee shop e-commerce platform featuring:
 - **Responsive Design**: Mobile-first approach with desktop optimization
 - **Complete User Flow**: Browse → Product Details → Add to Cart → Checkout
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js 18+ and npm
@@ -83,7 +83,7 @@ pip3 install requests
 python3 test_e2e.py
 ```
 
-## 🎯 Key Features Demonstrated
+## Key Features Demonstrated
 
 ### Backend (FastAPI)
 - **RESTful API Design**: Products, cart, and order endpoints
@@ -101,7 +101,7 @@ python3 test_e2e.py
 - **Error Handling**: Loading states, error boundaries, form validation
 - **Performance**: Optimized API calls and efficient re-renders
 
-## 🧠 Claude Code Techniques Demonstrated
+## Claude Code Techniques Demonstrated
 
 ### 1. **Strategic Agent Selection**
 Each sub-agent was chosen for their specialized expertise:
@@ -125,7 +125,7 @@ Each sub-agent was chosen for their specialized expertise:
 - Shared API contract ensured seamless integration
 - End-to-end testing validated the complete system
 
-## 📊 Technical Stack
+## Technical Stack
 
 ### Backend
 - **FastAPI** - Modern Python web framework
@@ -141,7 +141,7 @@ Each sub-agent was chosen for their specialized expertise:
 - **React Context** - Global state management
 - **Responsive Design** - Mobile-first approach
 
-## 🎨 Design Philosophy
+## Design Philosophy
 
 ### Coffee Shop Aesthetic
 - **Warm Color Palette**: Coffee browns, creams, and gold accents
@@ -155,7 +155,7 @@ Each sub-agent was chosen for their specialized expertise:
 - **Error Prevention**: Form validation and user guidance
 - **Accessibility**: Proper ARIA labels and keyboard navigation
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 coffee-shop/
@@ -178,7 +178,7 @@ coffee-shop/
 └── test_e2e.py            # End-to-end test suite
 ```
 
-## 🧪 Quality Assurance
+## Quality Assurance
 
 ### Comprehensive Testing
 - **Backend API Testing**: All endpoints validated with proper responses
@@ -192,7 +192,7 @@ coffee-shop/
 - **Loading States**: Proper user feedback during operations  
 - **Validation**: Form inputs and API responses validated
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 This project demonstrates several key principles of AI-assisted development:
 
@@ -211,7 +211,7 @@ Defining interfaces upfront (API contracts, data models) enabled parallel develo
 ### 5. **Testing Validates AI Output**
 Automated end-to-end tests provided confidence that AI-generated code works correctly in real scenarios.
 
-## 🚀 Production Readiness
+## Production Readiness
 
 While built as an MVP in under 2 hours, this application includes production-quality features:
 
@@ -254,10 +254,10 @@ Browse our complete coffee catalog with filtering and detailed product informati
 ![Products Listing](docs/screenshots/products.png)
 *Complete product catalog with category filtering and detailed coffee information*
 
-## 💡 Key Takeaway
+## Key Takeaway
 
-This project proves that with the right approach to AI-assisted development—specialized agents, careful context management, and structured prompts—complex applications can be built rapidly without sacrificing quality. The key is treating AI as a specialized team of experts rather than a single generalist tool.
+This project proves that with the right approach to AI-assisted development—specialized agents, careful context management, and structured prompts—complex applications can be built rapidly without sacrificing quality.
 
 ---
 
-**Built with ❤️ and ☕ using Claude Code in under 2 hours**# subagents-coffee
+**Built using Claude Code in under 2 hours**
